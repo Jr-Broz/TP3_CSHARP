@@ -1,0 +1,8 @@
+CREATE TABLE FOOD (
+
+
+ NOMECOMIDA String,
+ IDComida      varChar(28),
+ TAMANHOCOMIDA  int(22),
+  ORIGINALIDADECOMIDA varChar(145),
+)
